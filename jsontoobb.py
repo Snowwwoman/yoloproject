@@ -11,7 +11,7 @@ os.makedirs(output_label_dir, exist_ok=True)
 class_map = {
     "轴件1": 0,
     "轴件2": 1,
-    "轴件3": 2
+    "轴件23": 2
 }
 
 # ================= 遍历 JSON 文件 =================

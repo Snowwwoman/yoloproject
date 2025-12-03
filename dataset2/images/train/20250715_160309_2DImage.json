@@ -1,0 +1,130 @@
+{
+  "version": "3.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "packet",
+      "score": null,
+      "points": [
+        [
+          1333.3333333333335,
+          289.47368421052636
+        ],
+        [
+          1429.8245614035088,
+          289.47368421052636
+        ],
+        [
+          1429.8245614035088,
+          436.8421052631579
+        ],
+        [
+          1333.3333333333335,
+          436.8421052631579
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rotation",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": [],
+      "direction": 0
+    },
+    {
+      "label": "packet",
+      "score": null,
+      "points": [
+        [
+          1441.054111113358,
+          288.09745202574055
+        ],
+        [
+          1537.0167501401213,
+          298.18353181472463
+        ],
+        [
+          1521.6125555533092,
+          444.7446532374175
+        ],
+        [
+          1425.649916526546,
+          434.65857344843346
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rotation",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": [],
+      "direction": 0.10471975511965977
+    },
+    {
+      "label": "packet",
+      "score": null,
+      "points": [
+        [
+          1384.480966480913,
+          439.82900196224415
+        ],
+        [
+          1381.1134711850577,
+          536.2614501833859
+        ],
+        [
+          1233.8348229927715,
+          531.1183664588079
+        ],
+        [
+          1237.2023182886262,
+          434.68591823766684
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rotation",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": [],
+      "direction": 1.605702911834785
+    },
+    {
+      "label": "packet",
+      "score": null,
+      "points": [
+        [
+          1523.8485298588466,
+          439.21260932075904
+        ],
+        [
+          1525.5325339887602,
+          535.6891413095348
+        ],
+        [
+          1378.1865578604513,
+          538.2610748897669
+        ],
+        [
+          1376.5025537305373,
+          441.7845429009921
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rotation",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": [],
+      "direction": 1.553343034274955
+    }
+  ],
+  "imagePath": "20250715_160309_2DImage.png",
+  "imageData": null,
+  "imageHeight": 1500,
+  "imageWidth": 2000
+}

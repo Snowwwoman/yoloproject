@@ -1,0 +1,16 @@
+type: yolov8_obb
+name: yolov8s_obb-r20240111
+provider: Ultralytics
+display_name: YOLOv8s_obb
+model_path: "D:/EagleGrab/dataset/best.onnx"
+stride: 32
+input_width: 640
+input_height: 640
+nc: 3
+nms_threshold: 0.45
+conf_threshold: 0.25
+classes:
+  - 轴件1
+  - 轴件2
+  - 轴件3
+

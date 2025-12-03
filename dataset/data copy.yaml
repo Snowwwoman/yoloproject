@@ -1,0 +1,14 @@
+type: yolov8_obb
+name: yolov8s_obb-r20240111
+display_name: best_yolov8n_obb
+model_path: best.onnx
+stride: 32
+input_width: 640
+input_height: 640
+nc: 3
+confidence_threshold: 0.25
+nms_threshold: 0.45
+classes:
+  - 轴件1
+  - 轴件2
+  - 轴件3

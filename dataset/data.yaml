@@ -1,0 +1,11 @@
+
+train: images/train
+val: images/val
+
+names:
+  0: 轴件1
+  1: 轴件2
+  2: 轴件3
+
+obb: true
+
